@@ -22,3 +22,5 @@ def create_connection():
 
 
 create_connection()
+
+conexion = create_connection()
